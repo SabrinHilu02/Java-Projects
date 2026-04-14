@@ -1,10 +1,13 @@
 # Java-Projects
 Java assignments and projects completed during my university course - Grundlagen der Programmierung (Introduction to Programming) at Humboldt University of Berlin. 
 
-Each project is placed in its own subfolder and includes:
+## Contents
+- **Caesar-Chiffre und Würfel-Experimente**
+- **Deduplikator, Banner**
+- **Weihnachtsplätzchen & Koch-Schneeflocke**
+- **Objektorientierung und Bindung**
 
--Source code in Java
--A short English-language README with instructions
--The original assignment sheet (in German)
+## Purpose
+This repository collects Java projects I completed during my early programming journey. It is intended to document my learning progress and demonstrate my understanding of fundamental programming concepts in Java.
 
 
