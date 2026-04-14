@@ -7,6 +7,7 @@ Java assignments and projects completed during my university course - Grundlagen
 - **Deduplikator, Banner**
 - **Weihnachtsplätzchen & Koch-Schneeflocke**
 - **Objektorientierung und Bindung**
+- **Nutzerdefinierte Datentypen**
 
 ## Purpose
 This repository collects Java projects I completed during my early programming journey. It is intended to document my learning progress and demonstrate my understanding of fundamental programming concepts in Java.
